@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="automation.HackerNewTest"/>
+      <class name="automation.HackerNewsTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
