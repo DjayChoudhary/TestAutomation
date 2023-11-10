@@ -11,7 +11,7 @@ import automation.pages.HomePage;
 import automation.pages.NewTaskPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class HackerNewTest {
+public class HackerNewsTest {
 
 	private WebDriver driver;
 	private HomePage homePage;
